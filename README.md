@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Call .bodhi on strings that end with a period or .johnny on strings that contain a [sic] corrrection
 
 ## Development
 

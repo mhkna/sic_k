@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["  \"email\": null,"]
 
   spec.summary       = %q{point breakify your application}
-  spec.description   = %q{this gem takes [sic] corrections and makes them a lot [sic]ker}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{this gem takes [sic] corrections and makes them a little sicker}
+  spec.homepage      = "https://github.com/mhkna/sic_k"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
