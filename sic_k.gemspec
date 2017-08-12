@@ -6,7 +6,7 @@ require 'sic_k/version'
 Gem::Specification.new do |spec|
   spec.name          = "sic_k"
   spec.version       = SicK::VERSION
-  spec.authors       = ["Michael K."]
+  spec.authors       = ["Michael"]
   spec.email         = ["  \"email\": null,"]
 
   spec.summary       = %q{point breakify your app}

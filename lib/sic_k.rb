@@ -1,5 +1,9 @@
 require "sic_k/version"
 
 module SicK
-  # Your code goes here...
+  class PointBreak
+    def bodhi_quotes
+      'whooaaaaa'
+    end
+  end
 end
