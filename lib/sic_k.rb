@@ -1,9 +1,11 @@
 require "sic_k/version"
 
-module SicK
-  class PointBreak
-    def bodhi_quotes
-      'whooaaaaa'
-    end
+class String
+  def bodhi
+    self.gsub(".", ", brah.")
+  end
+
+  def johnny
+    self.gsub("[sic]", "[sick grammar]")
   end
 end
