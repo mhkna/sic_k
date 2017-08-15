@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Michael"]
   spec.email         = ["  \"email\": null,"]
 
-  spec.summary       = %q{point breakify your application}
-  spec.description   = %q{this gem takes [sic] corrections and makes them a little sicker}
+  spec.summary       = %q{point break inspired}
+  spec.description   = %q{This gem takes [sic] corrections and makes them a little sicker. Also, use the .bodhi method on strings to add 'brah' to the end of sentences. }
   spec.homepage      = "https://github.com/mhkna/sic_k"
   spec.license       = "MIT"
 
